@@ -65,7 +65,7 @@ gitalk:
   clientSecret: 975fbab78dce9538df9c7d16b55b2fe428e25b50    #生成的clientSecret
   repo: Nice-try-zzw.github.io    #仓库名称
   owner: Nice-try-zzw    # github用户名
-  admin: Nice_try
+  admin: Nice-try-zzw
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
 
 
