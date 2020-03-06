@@ -1,4 +1,18 @@
-﻿## 行列式  
+---
+layout:     post                    # 使用的布局（不需要改）
+title:      "线性代数（行列式篇）"               # 标题 
+subtitle:   "I love study" #副标题
+date:       2020-03-05              # 时间
+author:     "Nice_try"                      # 作者
+header-img: "img/blog04.jpg"    #这篇文章标题背景图片
+catalog: true                       # 是否归档
+tags:                               #标签
+    - blog
+    - 线性代数
+---
+
+## 行列式
+
 **易错点**  
 
  - 对角线法则仅适用于二阶，三阶行列式  

@@ -1,4 +1,18 @@
-﻿# 基础数据结构  
+---
+layout:     post                    # 使用的布局（不需要改）
+title:      "基础算法"               # 标题 
+subtitle:   "Hello world" #副标题
+date:       2020-03-05              # 时间
+author:     "Nice_try"                      # 作者
+header-img: "img/blog05.jpg"    #这篇文章标题背景图片
+catalog: true                       # 是否归档
+tags:                               #标签
+    - blog
+    - 算法
+---
+
+# 基础数据结构
+
 ###### 为什么会从算法联想到数据结构？   
 因为特定的算法需要在相应的数据结构基础上运行才能发挥良好的性能。     
 ###### 数据结构是什么？  
