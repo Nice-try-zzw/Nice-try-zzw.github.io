@@ -10,7 +10,3 @@
 ## 本人所学习的教程
 
 [GitHub Pages 快速搭建自己的博客](http://rainbomsea.xyz/2018/10/01/%E6%90%AD%E5%BB%BA%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)
-
-## 更大佬的教程 
-
-[利用 GitHub Pages 快速搭建个人博客](https://www.jianshu.com/p/e68fba58f75c)
