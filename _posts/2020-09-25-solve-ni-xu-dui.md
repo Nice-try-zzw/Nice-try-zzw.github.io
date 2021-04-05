@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post                    # 使用的布局（不需要改）
 title:      "求解逆序对"               # 标题 
 subtitle:   "What happened" #副标题
